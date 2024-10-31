@@ -39,8 +39,13 @@ Jurafsky, D., & Martin, J. H. (2009). Speech and Language Processing. Pearson.
 Mikolov, T., et al. (2013). Efficient Estimation of Word Representations in Vector Space. arXiv preprint arXiv:1301.3781.
 Pennington, J., Socher, R., & Manning, C. D. (2014). GloVe: Global Vectors for Word Representation. EMNLP.
 Suavizado Add-one: https://github.com/kapumota/Actividades-CC0C2/blob/main/Cuadernos-CC0C2/Clase2/Modelos-lenguaje1.ipynb
+
 Suavizado Add-k: https://github.com/kapumota/Actividades-CC0C2/blob/main/Cuadernos-CC0C2/Clase2/Modelos-lenguaje2.ipynb
+
 Suavizado Backoff:  https://github.com/kapumota/Actividades-CC0C2/blob/main/Cuadernos-CC0C2/Clase2/Counts-backoff-suavizado.ipynb
+
 Suaviado Stupid Backoff: https://github.com/kapumota/Actividades-CC0C2/blob/main/Cuadernos-CC0C2/Clase2/Topicos-avanzados.ipynb
+
 Glove y word2vec: https://github.com/kapumota/Actividades-CC0C2/blob/main/Cuadernos-CC0C2/Clase4/Embeddings.ipynb
+
 Repositorio de mi resolucion de la PC1: https://github.com/Kinartb/CC0C2/blob/main/PC1/pc1_nlp.py
