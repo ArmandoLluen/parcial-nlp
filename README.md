@@ -34,7 +34,8 @@ GloVe: Implementación de GloVe con una matriz de coocurrencia, optimizando la f
 Cada modelo se evaluó y analizó de acuerdo con su capacidad para capturar relaciones entre palabras y mejorar la representatividad semántica. Los resultados muestran cómo las técnicas de suavizado y las arquitecturas avanzadas como Word2Vec y GloVe logran diferentes niveles de precisión en la estimación de la probabilidad de palabras o en la creación de embeddings efectivos.
 Los resultados más significativos de los modelos y técnicas están documentados en el notebook Examen_Parcial_NLP.ipynb.
 
-Referencias
+## Referencias
+Corpus utilizado en el ejercicio 2: infopankki.en-es.es
 Jurafsky, D., & Martin, J. H. (2009). Speech and Language Processing. Pearson.
 Mikolov, T., et al. (2013). Efficient Estimation of Word Representations in Vector Space. arXiv preprint arXiv:1301.3781.
 Pennington, J., Socher, R., & Manning, C. D. (2014). GloVe: Global Vectors for Word Representation. EMNLP.
